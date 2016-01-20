@@ -30,7 +30,11 @@
     ```
     $ source myvenv/bin/activate
     ```
-  4. quite the environment
+  4. install package
+    ```
+    pip install django=1.5
+    ```
+  5. quite the environment
     ```
     $ deactivate
     ```
